@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "rambda": "^6.2.0",
+    "ramda": "^0.26.1"
+  },
+  "scripts": {
+    "watch": "nodemon reduce.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
